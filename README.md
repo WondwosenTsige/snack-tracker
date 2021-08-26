@@ -26,3 +26,7 @@ run development server
 Add a few snacks via Admin panel
 create another user and more snacks via Admin panel
 confirm that snacks behave as expected with proper name, purchaser and description.
+
+## Collaboration
+
+I collaborated and get help from Kassie Bradshaw, Daniel Dills, and Prabin Singh.
